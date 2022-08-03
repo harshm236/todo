@@ -1,0 +1,17 @@
+html{
+    font-size: 2rem;
+}
+.test1{ background-image: url(../../html/ASSESSMENTS/ASS1/HQLOGO.png);
+    font-size: 50px;
+    
+    height:4em;
+    width:2em;
+    padding: 2em;
+}
+.test2{color: brown;
+    background-color: skyblue;
+    height: 2rem;
+    width: 2px;
+    padding: 45%;
+    font-size: 2rem;
+}

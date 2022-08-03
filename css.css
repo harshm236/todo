@@ -1,0 +1,51 @@
+.blur1{
+    color: rgb(0, 0, 0);
+        background-color: rgb(20, 13, 13);
+    opacity: 50%;
+    filter: blur(5px);
+
+}
+.test{
+    box-shadow: 10px 10px 5px black;
+    font-size: 30px;
+    text-align: center;
+    position: absolute;
+    left: 500px; bottom: 90px;
+    width: 400px;
+    height: 250px;
+    background-color: white;
+    border-radius: 25%;
+}
+.newtask{
+    color: darkgoldenrod;
+    width: 70%;
+    height: 22px;
+    background-color: black;
+    opacity: 50%;
+    clear: right;
+
+}
+.newtask2{
+    position: relative;
+    top: 150px;
+    left: 500px;
+    color: darkgoldenrod;
+    width: 400px;
+    height: 300px;
+    background-color: black;
+    opacity: 90%;
+    
+
+}
+.back{ position: absolute;
+    top: 150px;
+    left: 500px;
+    background-color: rgb(161, 235, 235);
+    color: rgb(0, 0, 0);
+    font-size: 22px;
+}
+.lastpage{
+    position: absolute;
+    top: 100px;
+    left: 520px;
+}
